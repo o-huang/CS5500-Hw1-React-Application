@@ -7,7 +7,7 @@ const Tuit = ({tuit}) => {
     <li className="p-2 ttr-tuit list-group-item d-flex rounded-0">
       <div className="pe-2">
         <img src={`../images/${tuit['avatar-logo']}`}
-             className="ttr-tuit-avatar-logo rounded-circle" alt="description of image"/>
+             className="ttr-tuit-avatar-logo rounded-circle" alt="description"/>
       </div>
       <div>
         <h2
