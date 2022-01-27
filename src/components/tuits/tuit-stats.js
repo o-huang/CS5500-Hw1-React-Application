@@ -1,9 +1,9 @@
 import React from "react";
 
 export default class TuitStats extends React.Component {
-  constructor(props) {
-    super(props);
-  }
+  // constructor(props) {
+  //   super(props);
+  // }
   render() {
     return (
       <div className="row mt-2">
